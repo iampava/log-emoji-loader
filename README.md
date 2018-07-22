@@ -30,15 +30,14 @@ To use this loader just add it to **webpack**'s config and voila!
 
 ```js
 module.exports = {
-	...
     module: {
-                rules: [{
-                    test: /\.js$/,
-                    use: ["log-emoji-loader", "babel-loader"]
-                }]
-            }
+        rules: [{
+            test: /\.js$/,
+            use: ["log-emoji-loader", "babel-loader"]
+        }]
+    }
 };
 ```
 
 ### Production
-<p class="warning">I don't recommend using this loader when building for production unless you really want your users to see emojis in the console. 😂</p>
+<p class="warning">I don't recommend using this loader when building for production unless you really want your users to see emojis in the console! 😂</p>
