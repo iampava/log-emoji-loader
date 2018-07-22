@@ -8,7 +8,7 @@ console.log("Hi!");
 
 console.error("Wut is going on?");
 ```
-change into
+changes into
 ```js
 console.log("😊", "Hi!");
 
