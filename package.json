@@ -1,0 +1,15 @@
+{
+    "name": "log-emoji-loader",
+    "version": "1.0.0",
+    "descr  iption": "Emoji loader for webpack",
+    "license": "MIT",
+    "main": "loader.js",
+    "keywords": [
+        "emoji",
+        "webpack",
+        "loader"
+      ],
+      "repository": "https://github.com/iampava/log-emoji-loader.git",
+      "bugs": "https://github.com/iampava/log-emoji-loader/issues",
+      "homepage": "https://github.com/iampava/log-emoji-loader"
+}
